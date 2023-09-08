@@ -17,5 +17,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io](https://your-solution-url.com)
-- Live Site URL: [netify.app](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/3-column-card-component-m-cVc5yqBU)
+- Live Site URL: [netify.app](https://relaxed-marzipan-20f7a4.netlify.app)
